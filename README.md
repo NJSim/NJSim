@@ -28,7 +28,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <a href="https://github.com/NJSim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NJSim&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NJSim&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 
 <!--
