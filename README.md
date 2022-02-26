@@ -1,6 +1,6 @@
-### Welcome to my github! 👋
+### Welcome to my github! I'm Nicolas Sim 👋
 
-[Portfolio](https://njsim.github.io/)
+Check out my [Portfolio](https://njsim.github.io/)
 
 - 🔭 I’m currently working on updating old projects with awesome new features!
 - 🌱 I’m currently learning data structures and algorithms. 
