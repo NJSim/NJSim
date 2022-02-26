@@ -1,5 +1,7 @@
 ### Welcome to my github! 👋
 
+[![Portfolio](https://njsim.github.io/)
+
 - 🔭 I’m currently working on updating old projects with awesome new features!
 - 🌱 I’m currently learning data structures and algorithms. 
 - 💬 Ask me about how I built my react apps!
